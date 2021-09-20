@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thri60
 - 👀 I’m interested in software development (web/mobile) 
 - 🌱 I’m currently learning Quasar Framework 
-- 💞️ I’m looking to collaborate on an quasar framework related projects 
+- 💞️ I’m looking to collaborate on any project but with a preference to quasar framework related projects 
 - 📫 How to reach me michaeli.netlify.app 
 
 <!---
